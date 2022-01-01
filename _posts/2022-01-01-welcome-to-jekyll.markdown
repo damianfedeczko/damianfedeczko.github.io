@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Welcome to my GitHub page!"
-date:   2022-01-01 21:46:10 +0100
+layout: page
+title: "Welcome to my GitHub page!"
+date: 2022-01-01 21:46:10 +0100
 categories: init
 ---
 Hello there!
