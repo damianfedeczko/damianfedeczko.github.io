@@ -21,14 +21,13 @@
 title: Damian Fedeczko IT Blog
 email: damianfedeczko1+blog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Damian Fedeczko Personal Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://damianfedeczko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: damianfedeczko
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 

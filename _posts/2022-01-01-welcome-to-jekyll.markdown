@@ -1,29 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to my GitHub page!"
 date:   2022-01-01 21:46:10 +0100
-categories: jekyll update
+categories: init
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello there!
 
-Jekyll requires blog post files to be named according to the following format:
+My name is Damian and it's my pleasure to welcome to my GitHub page. I've decided that this will be my platform for something widely understood as "knowledge-sharing". This means that you may expect different types of content here - starting from technical blog posts, code snippets, WarGames writeups, and ending with some silly stuff I just wanted to share.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Feel free to contact me at anytime via e-mail if you want to get in touch.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Thanks!
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Damian
