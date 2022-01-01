@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Welcome to my GitHub page!"
 date: 2022-01-01 21:46:10 +0100
 categories: init

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Welcome to my GitHub page!"
-permalink: /URL-PATH/
+title: "About"
+permalink: /about
 ---
 Hello there!
 
