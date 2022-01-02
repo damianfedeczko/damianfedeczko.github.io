@@ -2,5 +2,5 @@ title: Damian Fedeczko Blog
 email: damianfedeczko1+blog@gmail.com
 # social links
 github_username: damianfedeczko # DO NOT include the @ character, or else the build will fail!
-theme: minima
+theme: jekyll-theme-tactile
 show_excerpts: true # set to false to remove excerpts on the homepage
