@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: "About"
+permalink: /URL-PATH/about/
 ---
 
 ## About
