@@ -28,3 +28,7 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
+# Adding jekyll-youtube embeds a YouTube video - 06/01/2022
+group :jekyll_plugins do
+  gem "jekyll-youtube"
+end
