@@ -6,4 +6,4 @@ github_username: damianfedeczko # DO NOT include the @ character, or else the bu
 linkedin: https://www.linkedin.com/in/damian-fedeczko-060765123/
 theme: jekyll-theme-tactile
 show_excerpts: true # set to false to remove excerpts on the homepage
-plugins: [jekyll-youtube]
+plugins: [jekyll-youtube, jekyll-include-cache]
