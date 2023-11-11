@@ -1,7 +1,6 @@
 title: damianfedeczko.github.io
 author:
   name             : "Damian Fedeczko"
-  avatar           : # path of avatar image, e.g. "./godzilla.jpg"
   bio              : "Personal Blog - IT and Security relared stuff"
   location         : "Somewhere"
   links:
@@ -40,13 +39,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 # Outputting
 permalink: /:categories/:title/
