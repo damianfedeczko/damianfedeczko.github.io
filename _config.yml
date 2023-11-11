@@ -1,10 +1,55 @@
 title: damianfedeczko.github.io
-author: Damian Fedeczko
-email: damianfedeczko1+blog@gmail.com
-# social links
+author:
+  name             : "Damian Fedeczko"
+  avatar           : # path of avatar image, e.g. "./godzilla.jpg"
+  bio              : "Personal Blog - IT and Security relared stuff"
+  location         : "Somewhere"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:damianfedeczko1+blog@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://damianfedeczko.github.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/damianfedeczko"
+
 github_username: damianfedeczko # DO NOT include the @ character, or else the build will fail!
-linkedin: https://www.linkedin.com/in/damian-fedeczko-060765123/
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 show_excerpts: true # set to false to remove excerpts on the homepage
 plugins: [jekyll-youtube, jekyll-include-cache]
-skin: dark
+minimal_mistakes_skin: dark
+words_per_minute: 200
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: PL
