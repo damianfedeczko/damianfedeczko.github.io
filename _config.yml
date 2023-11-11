@@ -7,3 +7,4 @@ linkedin: https://www.linkedin.com/in/damian-fedeczko-060765123/
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 show_excerpts: true # set to false to remove excerpts on the homepage
 plugins: [jekyll-youtube, jekyll-include-cache]
+skin: dark
